@@ -1,5 +1,3 @@
-// ==/UserScript==
-
 // ==UserScript==
 // @name mai-acm-rating-js-script 
 // @description 

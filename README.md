@@ -8,4 +8,4 @@
     - [Tampermonkey для chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru)
     - [Tampermonkey для firefox](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
 
-2. Нажми [сюда](https://raw.githubusercontent.com/vboyarkin/-mai-acm-rating-js-script/main/usersctipt.js) и нажми `Установить`
+2. Нажми [сюда](https://raw.githubusercontent.com/vboyarkin/mai-acm-rating-js-script/main/usersctipt.js) и нажми `Установить`
