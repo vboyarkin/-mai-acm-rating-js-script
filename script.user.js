@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         mai-acm-rating-js-script
 // @namespace    http://tampermonkey.net/
+// @name         mai-acm-rating-js-script
 // @version      0.1
 // @description  rating
 // @author       vboyarkin
-// @match        https://mai2020.contest.codeforces.com/*/customrating/
-// @grant        none
+// @license      MIT
+// @include      https://mai2020.contest.codeforces.com/*/customrating/
+// @grant none
 // ==/UserScript==
 
 (function () {
